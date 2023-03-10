@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bmpcckcdkomuu"]
+
+[ext_resource type="Script" path="res://scenes/game_camera/game_camera.gd" id="1_cugi3"]
+
+[node name="GameCamera" type="Camera2D"]
+rotation = -0.0531839
+script = ExtResource("1_cugi3")
